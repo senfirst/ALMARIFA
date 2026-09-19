@@ -1,0 +1,6 @@
+{
+  "name": "ALMAARIFA THIERNO DJIBRIL OUSMANE BA — Gestion Scolaire",
+  "description": "Application de gestion scolaire et de suivi des mensualités pour l'établissement ALMAARIFA Thierno Djibril Ousmane Ba.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
